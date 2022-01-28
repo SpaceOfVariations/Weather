@@ -1,0 +1,69 @@
+
+
+.widjet {
+  width: 300px;
+  height: 555px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  background-image: url(https://99px.ru/sstorage/53/2011/12/tmb_29652_6919.jpg);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.city-name {
+  font-style: oblique;
+  text-align: center;
+  height: 56px;
+  font-size: 70px;
+}
+.temperature {
+  height: 83px;
+  text-align: center;
+  font-size: 50px;
+  font-size: 70px;
+}
+
+.clouds {
+  height: 50px;
+  font-size: 40px;
+  text-align: center;
+  font-style: oblique;
+}
+
+.icon {
+  text-align: center;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 39px;
+  height: 75px;
+}
+
+.clarification {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-style: oblique;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.time {
+  box-shadow: 0 14px 28px rgba(255, 255, 255, 0.25),
+    0 10px 10px rgba(252, 252, 252, 0.22);
+  word-spacing: 20px;
+  font-size: 70px;
+  text-align: center;
+  font-style: oblique;
+  border-radius: 20px;
+}
+
+.select-city {
+  border: 1px solid var(--select-border);
+  border-radius: 0.25em;
+  padding: 0.25em 0.5em;
+  font-size: 1.25rem;
+  background-color: rgb(124, 189, 197);
+}
